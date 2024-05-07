@@ -1,0 +1,126 @@
+#product-main-form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  #product-form {
+    background-color:#d1e8f3;
+    #product-main-form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  #product-form {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  #name-div,
+  #price-div {
+    margin-bottom: 15px;
+  }
+  
+  #name-input,
+  #price-input {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+  }
+  
+  #submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #product-search {
+    width:20%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom:2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #input-and-main-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+  }
+  
+  #product-list-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+ 
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  #name-div,
+  #price-div {
+    margin-bottom: 15px;
+  }
+  
+  #name-input,
+  #price-input {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+  }
+  
+  #submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #product-search {
+    width:20%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom:2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #input-and-main-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+  }
+  
+  #product-list-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+ 
